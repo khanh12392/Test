@@ -1,0 +1,284 @@
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Admin\Desktop\Nhom5_QLBH_Congvcph00948\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Admin\Desktop\demnay\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Admin\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Tien\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Fpoly\Documents\GitHub\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+>>>>>>> 75240418ac5de231ab60f1d6bd13b2cbdcd1014b
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+>>>>>>> 505ef231a56d337d645adec68a407d0ccd075fb2
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Fpoly\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\Phong Linh\Desktop\HOANTHIEN.git\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.pdb
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\System.Web.Providers.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\EntityFramework.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.Core.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbprojResolveAssemblyReference.cache
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.Resources.resources
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.vbproj.GenerateResource.Cache
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.dll
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.xml
+C:\Users\M8\Desktop\ohy\trunk\Nhom5_QLBH_Congvcph00948\obj\Debug\Nhom5_QLBH_Congvcph00948.pdb
